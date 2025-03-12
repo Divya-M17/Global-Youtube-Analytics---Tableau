@@ -1,30 +1,42 @@
-# Global-Youtube-Analytics-Tableau
+# Global Youtube Analytics - Tableau 
 
-This project is a YouTube Analytics Dashboard designed in Tableau to analyze YouTube content performance, audience demographics, and revenue trends. It helps businesses, content creators, and advertisers make data-driven decisions by visualizing key metrics such as subscribers, uploads, video views, earnings, and engagement.
+# Project Overview
+The YouTube Analytics Dashboard provides insights into subscriber growth, uploads, video views, earnings, and audience demographics. This analysis helps content creators, marketers, and businesses make data-driven decisions to optimize their YouTube strategies.
 
-# Dataset & Data Sources
-The dataset includes metrics like video views, subscribers, earnings, country-wise performance, category-wise engagement, and demographic insights. The data is sourced from YouTube API, web scraping, and CSV datasets containing creator performance details.
+# Technologies Used
+1. Tableau – Data visualization & dashboard creation
+2. Excel – Data cleaning & preprocessing
 
-# Tools & Techniques Used
-I used Tableau for interactive data visualization. To optimize performance, I calculated fields, and LOD expressions. Additionally, I performed trend analysis and A/B testing recommendations to improve YouTube monetization strategies.
+# Key Objectives
+1. Analyze subscriber trends and engagement across different categories
+2. Evaluate video views & earnings by country, category, and creator
+3. Identify top-performing YouTubers based on subscriber count & revenue
+4. Examine age group demographics for targeted marketing strategies
+5. Compare monthly earnings & uploads for trend analysis
 
-# Key Features & Insights
-The dashboard provides multiple insights, including:
+#Dashboard Insights
+  1. YouTube Subscriber & Upload Trends
+  - Total Subscribers: 22.98M+ across all categories
+  - Total Uploads: 9.14K+ videos analyzed
 
-YouTube Count by Gender: Shows male vs. female content creators' distribution.
-1. Video Views by Country: Identifies top-performing regions (e.g., USA, India, Russia).
-2. Video Views by Category: Highlights engagement across different niches (e.g., Music, Gaming, Education).
-3. Earnings by YouTuber: Compares revenue trends for top creators.
-4. Monthly Earnings & Uploads: Tracks revenue and upload frequency over time.
-5. Age-wise Analysis: Breaks down subscribers by age groups for audience targeting.
+  2. Video Performance by Category & Country
+  - Top Video Category: Music (3.12B+ views) followed by Entertainment
+  - Top Countries by Video Views: United States, Russia, India, Canada
 
-# Business Impact
-This dashboard helps businesses and content creators by:
-1. Identifying high-revenue YouTube categories for ad investments.
-2. Optimizing content strategy by analyzing engagement trends.
-3. Improving audience targeting with demographic insights.
-4. Helping advertisers find the best-performing YouTubers for collaborations.
+  3. YouTuber Performance & Earnings
+  - Most Subscribed Channels: T-Series, MrBeast, PewDiePie, Like Nastya
+  - Highest Monthly Earnings: Cocomelon - $7.9M to $44.8M
+  - Justin Bieber & BLACKPINK among the highest revenue-generating channels
+
+  4. Audience Demographics
+  - Most Subscribers Age Group: 36-40 (6.17M subscribers)
+  - Balanced Gender Representation: Male (607) vs. Female (388) YouTubers
+
+  5. Monthly Trends in Earnings & Uploads
+  - Peak Earnings Month: October ($1.31M+)
+  - High Upload Volume in March & April
 
 # Conclusion
-This project showcases my ability to analyze large datasets, create compelling visualizations, and drive business decisions through data insights. By using Tableau, and data storytelling techniques, I successfully delivered a dashboard that can help businesses and YouTubers optimize content strategy and maximize revenue.
+This Tableau-powered YouTube Analytics Dashboard provides actionable insights for content creators and marketers to optimize video strategies, track earnings, and understand audience behavior.
+
 
