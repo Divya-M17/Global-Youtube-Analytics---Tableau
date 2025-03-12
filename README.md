@@ -14,7 +14,7 @@ The YouTube Analytics Dashboard provides insights into subscriber growth, upload
 4. Examine age group demographics for targeted marketing strategies
 5. Compare monthly earnings & uploads for trend analysis
 
-#Dashboard Insights
+# Dashboard Insights
   1. YouTube Subscriber & Upload Trends
   - Total Subscribers: 22.98M+ across all categories
   - Total Uploads: 9.14K+ videos analyzed
