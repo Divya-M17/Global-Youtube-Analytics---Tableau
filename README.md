@@ -6,7 +6,7 @@ This project is a YouTube Analytics Dashboard designed in Tableau to analyze You
 The dataset includes metrics like video views, subscribers, earnings, country-wise performance, category-wise engagement, and demographic insights. The data is sourced from YouTube API, web scraping, and CSV datasets containing creator performance details.
 
 # Tools & Techniques Used
-I used Tableau for interactive data visualization and SQL for data preprocessing. To optimize performance, I leveraged data extracts, calculated fields, and LOD expressions. Additionally, I performed trend analysis and A/B testing recommendations to improve YouTube monetization strategies.
+I used Tableau for interactive data visualization. To optimize performance, I calculated fields, and LOD expressions. Additionally, I performed trend analysis and A/B testing recommendations to improve YouTube monetization strategies.
 
 # Key Features & Insights
 The dashboard provides multiple insights, including:
